@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">GoWhere</string>
+    
+    <string name="home_page">首页</string>
+    <string name="find_share">发现</string>
+    <string name="my_account">我的</string>
+    <string name="setting">设置</string>
+    <string name="beijing">北京</string>
+    <string name="information">信息</string>
+    <string name="hint_search">搜索</string>
+    
+    <string name="one_day">一天</string>
+    <string name="two_day">两天</string>
+    <string name="seven_day">七天</string>
+    <string name="guess_like">猜你</string>
+    <string name="more_select">更多</string>
+    
+    <string name="return_back">返回</string>
+    <string name="share_to">分享</string>
+
+    <string name="telephone_label_str">电话：</string>
+    <string name="address_label_str">地址：</string>
+    <string name="info_label_str">简介：</string>
+    <string name="buy_it">购买</string>
+    <string name="similar_match">相似匹配</string>
+    
+    <string name="location_title">定位信息:</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/guess_like_button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/guess_like" 
+        android:background="@drawable/button_selector"
+	/>
+
+    <Button
+        android:id="@+id/one_day_button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/one_day" 
+        android:background="@drawable/button_selector"
+        style="?android:attr/buttonBarButtonStyle"/>
+
+    <Button
+        android:id="@+id/two_day_button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/two_day" 
+        android:background="@drawable/button_selector"
+        style="?android:attr/buttonBarButtonStyle"/>
+
+    <Button
+        android:id="@+id/seven_day_button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/seven_day"
+        android:background="@drawable/button_selector"
+        style="?android:attr/buttonBarButtonStyle"/>
+    
+     <Button
+        android:id="@+id/more_select_button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/more_select"
+        android:background="@drawable/button_selector"
+        style="?android:attr/buttonBarButtonStyle"/>
+</LinearLayout>
